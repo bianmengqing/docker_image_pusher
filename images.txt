@@ -1,1 +1,2 @@
 kubesphere/fluentbit-operator:v0.11.0
+docker:19.03
