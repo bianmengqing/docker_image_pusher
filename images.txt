@@ -6,3 +6,4 @@ kubesphere/fluentbit-operator:v0.14.0
 kubesphere/fluent-bit:v1.9.4
 kubesphere/kube-auditing-webhook:v0.2.0
 kubesphere/openpitrix-jobs:v3.3.2
+jenkins/jenkins:lts
