@@ -3,3 +3,5 @@ docker:19.03
 minio/minio:RELEASE.2019-08-07T01-59-21Z
 kubesphere/ks-controller-manager:v3.2.1
 kubesphere/fluentbit-operator:v0.14.0
+kubesphere/fluent-bit:v1.9.4
+kubesphere/kube-auditing-webhook:v0.2.0
