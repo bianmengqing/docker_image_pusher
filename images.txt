@@ -7,3 +7,4 @@ kubesphere/fluent-bit:v1.9.4
 kubesphere/kube-auditing-webhook:v0.2.0
 kubesphere/openpitrix-jobs:v3.3.2
 jenkins/jenkins:lts
+registry.gitlab.cn/omnibus/gitlab-jh:latest
